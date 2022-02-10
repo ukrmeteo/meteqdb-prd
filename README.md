@@ -5,5 +5,5 @@ _hydrometeorological_ Measuring Equipment DataBase
 
 Далі - БД (база даних)
 
-- [Техничне завдання щодо розробки БД](product_requirements_document)
+- [Технічне завдання щодо розробки БД](product_requirements_document)
 - [Проект структури БД](db_project)
