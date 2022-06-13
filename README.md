@@ -1,4 +1,4 @@
-# MEdb
+# Meteo
 _hydrometeorological_ Measuring Equipment DataBase
 
 ## База даних гідрометеорологічного вимірювального обладнання
