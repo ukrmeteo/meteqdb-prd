@@ -1,4 +1,4 @@
-# Meteo
+# Meteo Docs
 _hydrometeorological_ Measuring Equipment DataBase
 
 ## База даних гідрометеорологічного вимірювального обладнання
