@@ -7,3 +7,7 @@ _hydrometeorological_ Measuring Equipment DataBase
 
 - [Технічне завдання щодо розробки БД](product_requirements_document)
 - [Проект структури БД](db_project)
+
+
+---
+&copy; 2022, [UHMC](https://meteo.gov.ua/)
