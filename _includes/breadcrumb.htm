@@ -1,0 +1,21 @@
+{%- if page.url != "/" -%}
+	{%- assign arr_pages = page.url | split: "/" -%}
+	{%- assign last_page = page.url | split: "/" | last -%}
+	<p>
+	{%- for item in arr_pages -%}
+		{%- if item == '' -%}
+			{%- assign full_url = site.baseurl -%}
+			{%- comment -%} картинка вместо 'home' <a href="{{ full_url }}"><img src="{{ site.baseurl }}/i/favicon-32x32.png" alt="home" title="home"></a> {%- endcomment -%}
+		    	<a href="{{ full_url }}">home</a>
+		{%- else -%}
+			{%- capture full_url %}{{ full_url }}/{{ item }}{% endcapture -%}
+			{%- assign dir = item | remove: ".html" -%}
+			{%- if dir == last_page %}
+				/ <span class="text-gray">{{ dir }}</span>
+			{%- else %}
+				/ <a href="{{ full_url }}">{{ dir }}</a>
+			{%- endif -%}
+		{%- endif -%}
+	{%- endfor -%}
+	</p>
+{%- endif -%}
