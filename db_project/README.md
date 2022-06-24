@@ -4,7 +4,7 @@
 
 ### Назва бази даних
 
-`meqdb` - Measuring Equipment DataBase - база даних вимірювального обладнання
+`meteqdb` - METeorological measuring EQuipment DataBase - база даних метрологічного вимірювального обладнання
 
 ### Таблиці
 
