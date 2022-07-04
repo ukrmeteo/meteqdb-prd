@@ -1,5 +1,7 @@
-# Meteo Docs
-_hydrometeorological_ Measuring Equipment DataBase
+# meteqdb-prd
+Product Requirements Document
+
+## Технічне завдання на розробку Бази даних гідрометеорологічного вимірювального обладнання
 
 ## База даних гідрометеорологічного вимірювального обладнання
 
