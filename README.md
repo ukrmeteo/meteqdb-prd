@@ -1,5 +1,6 @@
-# meteqdb-prd
-**Product Requirements Document** of the METeorological measuring EQuipment DataBase
+# MetEqDB-prd
+**Product Requirements Document**  
+of the **MET**eorological measuring **EQ**uipment **D**ata**B**ase
 
 ## Технічне завдання на розробку Бази даних гідрометеорологічного вимірювального обладнання
 
